@@ -145,9 +145,9 @@ const SPECIALIZED_TRAINING = [
     icon: <ShieldCheck className="w-6 h-6 text-forest-600" />
   },
   {
-    title: "Data Analytics Basics",
+    title: "Google Data Analytics Professional Certificate",
     status: "Google Certified",
-    description: "Proficiency in Excel and Power BI for data-driven insights.",
+    description: "In-depth training in data cleaning, analysis, and visualization using SQL, R, and Tableau.",
     icon: <BarChart3 className="w-6 h-6 text-navy-900" />
   }
 ];
